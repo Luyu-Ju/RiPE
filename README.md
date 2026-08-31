@@ -44,7 +44,7 @@ configuration.
 
 ![Timeline and dynamic spatiotemporal interactions during evacuation](assets/fig3_evacuation_process.png)
 
-**Fig. 3.** (a) Timeline of the evacuation process, and (b)-(d) dynamic
+**Figure.** (a) Timeline of the evacuation process, and (b)-(d) dynamic
 spatiotemporal interactions between pedestrians and landslides during
 evacuation.
 
